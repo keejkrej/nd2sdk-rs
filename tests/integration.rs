@@ -1,4 +1,4 @@
-use nd2_rs::{Nd2File, Result};
+use nd2::{Nd2File, Result};
 use std::path::PathBuf;
 
 fn test_path() -> Option<PathBuf> {

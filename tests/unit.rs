@@ -1,4 +1,4 @@
-use nd2_rs::Nd2File;
+use nd2::Nd2File;
 use std::io::Write;
 
 #[test]
