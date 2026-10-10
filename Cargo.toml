@@ -1,13 +1,13 @@
 [package]
-name = "nd2-rs"
+name = "nd2"
 version = "0.1.0"
 edition = "2021"
 rust-version = "1.70"
-description = "Rust wrapper for Nikon Nd2ReadSdk with an nd2-rs compatible API"
+description = "Rust wrapper for Nikon Nd2ReadSdk with an nd2-compatible API"
 license = "MIT"
 
 [lib]
-name = "nd2_rs"
+name = "nd2"
 path = "src/lib.rs"
 doctest = false
 
